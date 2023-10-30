@@ -1,0 +1,43 @@
+﻿@model ModelAccessLayer.Models.CRUDLibraryModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared 2/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BookName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BookName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BookCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BookCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Summary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Summary)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }, new { @class = "btn btn-primary" }) 
+    @Html.ActionLink("Delete", "Delete", new { id = Model.Id }, new { @class = "btn btn-danger" }) 
+    @Html.ActionLink("Back to List", "GetList", null, new { @class = "btn btn-secondary" })
+</p>
