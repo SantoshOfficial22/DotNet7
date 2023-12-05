@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+}
+
+@model Image
+
+<h2>Image Details</h2>
+
+<div>
+    <img src="@Model.Path" alt="@Model.Name" class="img-fluid" />
+    <p>Name: @Model.Name</p>
+</div>

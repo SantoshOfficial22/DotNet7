@@ -1,0 +1,1209 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ImageCollectionGallery.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ImageCollectionGallery.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\-march-04-2016-portrait-of-beautiful-indian-little-cute-girl-smiling-2AX0N0W.jpg",
+      "PackagePath": "staticwebassets\\images\\-march-04-2016-portrait-of-beautiful-indian-little-cute-girl-smiling-2AX0N0W.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\1000_F_127303749_orkzPYzj0pvmDOmMXQaVUgZimtK6D4Ar.jpg",
+      "PackagePath": "staticwebassets\\images\\1000_F_127303749_orkzPYzj0pvmDOmMXQaVUgZimtK6D4Ar.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\1000_F_257427338_R5ApHwcyfmYwE1YCX5sDx8nUh8iBGwxY.jpg",
+      "PackagePath": "staticwebassets\\images\\1000_F_257427338_R5ApHwcyfmYwE1YCX5sDx8nUh8iBGwxY.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\1000_F_379584533_M2fSTzOCTpAgFIAgej5IDTrzENBZPM6b.jpg",
+      "PackagePath": "staticwebassets\\images\\1000_F_379584533_M2fSTzOCTpAgFIAgej5IDTrzENBZPM6b.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\1363px-A_beautiful_girl_in_her_black_dress.jpg",
+      "PackagePath": "staticwebassets\\images\\1363px-A_beautiful_girl_in_her_black_dress.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\222c1d8c1d004b19e1e6e6130344b22f.jpg",
+      "PackagePath": "staticwebassets\\images\\222c1d8c1d004b19e1e6e6130344b22f.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\27-most-beautiful-women-in-the-world-updated-list-featured-image.jpg",
+      "PackagePath": "staticwebassets\\images\\27-most-beautiful-women-in-the-world-updated-list-featured-image.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\27ff19ac117b4bdca6d4370d4e8c0cce.jpeg",
+      "PackagePath": "staticwebassets\\images\\27ff19ac117b4bdca6d4370d4e8c0cce.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\32053565-beautiful-indian-girl.jpg",
+      "PackagePath": "staticwebassets\\images\\32053565-beautiful-indian-girl.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\3bbdba594265a4a460f13a05ccf7eeb8e071a159_2000x2000.webp",
+      "PackagePath": "staticwebassets\\images\\3bbdba594265a4a460f13a05ccf7eeb8e071a159_2000x2000.webp"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\500_F_164393848_zicOt3rQZDL5TaUCMUombhF8MHH5hRiW.jpg",
+      "PackagePath": "staticwebassets\\images\\500_F_164393848_zicOt3rQZDL5TaUCMUombhF8MHH5hRiW.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\503806-beautiful-indian-girl-image.jpg",
+      "PackagePath": "staticwebassets\\images\\503806-beautiful-indian-girl-image.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\503812-beautiful-young-indian-girl-illustration.jpg",
+      "PackagePath": "staticwebassets\\images\\503812-beautiful-young-indian-girl-illustration.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\564833.jpg",
+      "PackagePath": "staticwebassets\\images\\564833.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\5bd146f8b3e16-wallpaper-preview.jpg",
+      "PackagePath": "staticwebassets\\images\\5bd146f8b3e16-wallpaper-preview.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\68e462373e6718d845afe5804cff43dc.jpg",
+      "PackagePath": "staticwebassets\\images\\68e462373e6718d845afe5804cff43dc.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\7-1.jpg",
+      "PackagePath": "staticwebassets\\images\\7-1.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\8e02ec473ae91223bef7a0eb7dce7690.jpg",
+      "PackagePath": "staticwebassets\\images\\8e02ec473ae91223bef7a0eb7dce7690.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\93073988.jpg",
+      "PackagePath": "staticwebassets\\images\\93073988.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\94864313.jpg",
+      "PackagePath": "staticwebassets\\images\\94864313.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\95662428.jpg",
+      "PackagePath": "staticwebassets\\images\\95662428.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\98cb74e8143e62d95d45c6a3941a6554.jpg",
+      "PackagePath": "staticwebassets\\images\\98cb74e8143e62d95d45c6a3941a6554.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\Beautiful-2-scaled.jpg",
+      "PackagePath": "staticwebassets\\images\\Beautiful-2-scaled.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\Beyonce.png",
+      "PackagePath": "staticwebassets\\images\\Beyonce.png"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\FKEs4TuVQAAYScX.jpg",
+      "PackagePath": "staticwebassets\\images\\FKEs4TuVQAAYScX.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\HD-wallpaper-beautiful-girl-bengali-eyes-holi-indian.jpg",
+      "PackagePath": "staticwebassets\\images\\HD-wallpaper-beautiful-girl-bengali-eyes-holi-indian.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\HD-wallpaper-beauty-beautiful-blonde-blue-eyes-girl-gorgeous-portrait-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\HD-wallpaper-beauty-beautiful-blonde-blue-eyes-girl-gorgeous-portrait-thumbnail.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\HoYeon-Jung.jpg",
+      "PackagePath": "staticwebassets\\images\\HoYeon-Jung.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\Jare-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Jare-2.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\Jourdan-Dunn.png",
+      "PackagePath": "staticwebassets\\images\\Jourdan-Dunn.png"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\Top-35-Most-Beautiful-American-Girls-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Top-35-Most-Beautiful-American-Girls-2.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\Top-51-Most-Beautiful-Women-in-the-World.jpg",
+      "PackagePath": "staticwebassets\\images\\Top-51-Most-Beautiful-Women-in-the-World.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\WhatsApp-Image-2023-01-16-at-11.48.55.jpeg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp-Image-2023-01-16-at-11.48.55.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\ac5547f0bd276cbbad2fb5aa6cf8cf34.jpg",
+      "PackagePath": "staticwebassets\\images\\ac5547f0bd276cbbad2fb5aa6cf8cf34.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\african-black-woman-portrait-cute-girl-stock-background-generative-ai-photo.jpg",
+      "PackagePath": "staticwebassets\\images\\african-black-woman-portrait-cute-girl-stock-background-generative-ai-photo.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\ashwarya-rai-11_122210033206.jpg",
+      "PackagePath": "staticwebassets\\images\\ashwarya-rai-11_122210033206.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\asian-girl-pictures-38rdnjnatiqck3ue.jpg",
+      "PackagePath": "staticwebassets\\images\\asian-girl-pictures-38rdnjnatiqck3ue.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\asian-girl-pictures-496rn5jp9pjbwi99.jpg",
+      "PackagePath": "staticwebassets\\images\\asian-girl-pictures-496rn5jp9pjbwi99.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\asian-woman-2560x1440-11458.jpg",
+      "PackagePath": "staticwebassets\\images\\asian-woman-2560x1440-11458.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\beautiful-american-girl-american-style-desert-96156524.jpg",
+      "PackagePath": "staticwebassets\\images\\beautiful-american-girl-american-style-desert-96156524.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\beautiful-girl-5309869_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\beautiful-girl-5309869_1280.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\beautiful-girl-5640602_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\beautiful-girl-5640602_1280.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\beautiful-girl-5640607_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\beautiful-girl-5640607_1280.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\beautiful-girl-stands-near-walll-with-leaves_8353-5377.jpg",
+      "PackagePath": "staticwebassets\\images\\beautiful-girl-stands-near-walll-with-leaves_8353-5377.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\beautiful-girl-stands-park_8353-5085.jpg",
+      "PackagePath": "staticwebassets\\images\\beautiful-girl-stands-park_8353-5085.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\beautiful-indian-girl-young-hindu-woman-neural-network-ai-generated-photo.jpg",
+      "PackagePath": "staticwebassets\\images\\beautiful-indian-girl-young-hindu-woman-neural-network-ai-generated-photo.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\beautiful-indian-woman-close-up-generative-ai_849906-5592.jpg",
+      "PackagePath": "staticwebassets\\images\\beautiful-indian-woman-close-up-generative-ai_849906-5592.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\beautiful-pic-of-girl-with-flower-HD.jpg",
+      "PackagePath": "staticwebassets\\images\\beautiful-pic-of-girl-with-flower-HD.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\cats-10.jpg",
+      "PackagePath": "staticwebassets\\images\\cats-10.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\china-adult-beautiful-girl-black-shirt-blue-jeans-relax-and-smile-1360751645.jpg",
+      "PackagePath": "staticwebassets\\images\\china-adult-beautiful-girl-black-shirt-blue-jeans-relax-and-smile-1360751645.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\chitrangada_122210033805.jpg",
+      "PackagePath": "staticwebassets\\images\\chitrangada_122210033805.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\closeup-portrait-indian-beautiful-girl-260nw-2101060705.jpg",
+      "PackagePath": "staticwebassets\\images\\closeup-portrait-indian-beautiful-girl-260nw-2101060705.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\cute-girls-dp-by-shayariraja-15-3-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\images\\cute-girls-dp-by-shayariraja-15-3-1024x1024.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\cute-girls-dp-by-shayariraja-20-5-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\images\\cute-girls-dp-by-shayariraja-20-5-1024x1024.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\depositphotos_370546254-stock-photo-beautiful-indian-traditional-girl-posing.jpg",
+      "PackagePath": "staticwebassets\\images\\depositphotos_370546254-stock-photo-beautiful-indian-traditional-girl-posing.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\desktop-wallpaper-100-beautiful-indian-girl-pic-now.jpg",
+      "PackagePath": "staticwebassets\\images\\desktop-wallpaper-100-beautiful-indian-girl-pic-now.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\desktop-wallpaper-beautiful-girl-beauty-indian.jpg",
+      "PackagePath": "staticwebassets\\images\\desktop-wallpaper-beautiful-girl-beauty-indian.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\desktop-wallpaper-beautiful-girl-head-indian.jpg",
+      "PackagePath": "staticwebassets\\images\\desktop-wallpaper-beautiful-girl-head-indian.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\desktop-wallpaper-eesha-rebba-beautiful-mobile-indian-beautiful-girl-mobile.jpg",
+      "PackagePath": "staticwebassets\\images\\desktop-wallpaper-eesha-rebba-beautiful-mobile-indian-beautiful-girl-mobile.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\desktop-wallpaper-pin-on-beautiful-girl-indian-stylish-girl.jpg",
+      "PackagePath": "staticwebassets\\images\\desktop-wallpaper-pin-on-beautiful-girl-indian-stylish-girl.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\expression-beautiful-indian-girl-indoor-27513939.jpg",
+      "PackagePath": "staticwebassets\\images\\expression-beautiful-indian-girl-indoor-27513939.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\ful-eyes-and-the-dress-holding-the-chrysanthemum-flower-was-beautiful-WWD199.jpg",
+      "PackagePath": "staticwebassets\\images\\ful-eyes-and-the-dress-holding-the-chrysanthemum-flower-was-beautiful-WWD199.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image-beautiful-girl-image-indian-girls-photos-indian-girls-images-898352261.jpg",
+      "PackagePath": "staticwebassets\\images\\image-beautiful-girl-image-indian-girls-photos-indian-girls-images-898352261.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image-of-cute-girl-download.jpg",
+      "PackagePath": "staticwebassets\\images\\image-of-cute-girl-download.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image.jpeg",
+      "PackagePath": "staticwebassets\\images\\image.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image10.jpeg",
+      "PackagePath": "staticwebassets\\images\\image10.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image11.jpeg",
+      "PackagePath": "staticwebassets\\images\\image11.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image12.jpeg",
+      "PackagePath": "staticwebassets\\images\\image12.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image13.jpeg",
+      "PackagePath": "staticwebassets\\images\\image13.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image14.jpeg",
+      "PackagePath": "staticwebassets\\images\\image14.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image15.jpeg",
+      "PackagePath": "staticwebassets\\images\\image15.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image16.jpeg",
+      "PackagePath": "staticwebassets\\images\\image16.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image17.jpeg",
+      "PackagePath": "staticwebassets\\images\\image17.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image18.jpeg",
+      "PackagePath": "staticwebassets\\images\\image18.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image19.jpeg",
+      "PackagePath": "staticwebassets\\images\\image19.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image2.jpeg",
+      "PackagePath": "staticwebassets\\images\\image2.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image20.jpeg",
+      "PackagePath": "staticwebassets\\images\\image20.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image21.jpeg",
+      "PackagePath": "staticwebassets\\images\\image21.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image22.jpeg",
+      "PackagePath": "staticwebassets\\images\\image22.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image23.jpeg",
+      "PackagePath": "staticwebassets\\images\\image23.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image24.jpeg",
+      "PackagePath": "staticwebassets\\images\\image24.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image25.jpeg",
+      "PackagePath": "staticwebassets\\images\\image25.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image26.jpeg",
+      "PackagePath": "staticwebassets\\images\\image26.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image27.jpeg",
+      "PackagePath": "staticwebassets\\images\\image27.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image28.jpeg",
+      "PackagePath": "staticwebassets\\images\\image28.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image29.jpeg",
+      "PackagePath": "staticwebassets\\images\\image29.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image3.jpeg",
+      "PackagePath": "staticwebassets\\images\\image3.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image30.jpeg",
+      "PackagePath": "staticwebassets\\images\\image30.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image31.jpeg",
+      "PackagePath": "staticwebassets\\images\\image31.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image32.jpeg",
+      "PackagePath": "staticwebassets\\images\\image32.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image4.jpeg",
+      "PackagePath": "staticwebassets\\images\\image4.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image5.jpeg",
+      "PackagePath": "staticwebassets\\images\\image5.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image6.jpeg",
+      "PackagePath": "staticwebassets\\images\\image6.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image7.jpeg",
+      "PackagePath": "staticwebassets\\images\\image7.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image8.jpeg",
+      "PackagePath": "staticwebassets\\images\\image8.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\image9.jpeg",
+      "PackagePath": "staticwebassets\\images\\image9.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images.jpg",
+      "PackagePath": "staticwebassets\\images\\images.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images10.jpg",
+      "PackagePath": "staticwebassets\\images\\images10.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images100.jpg",
+      "PackagePath": "staticwebassets\\images\\images100.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images101.jpg",
+      "PackagePath": "staticwebassets\\images\\images101.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images102.jpg",
+      "PackagePath": "staticwebassets\\images\\images102.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images103.jpg",
+      "PackagePath": "staticwebassets\\images\\images103.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images104.jpg",
+      "PackagePath": "staticwebassets\\images\\images104.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images105.jpg",
+      "PackagePath": "staticwebassets\\images\\images105.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images106.jpg",
+      "PackagePath": "staticwebassets\\images\\images106.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images107.jpg",
+      "PackagePath": "staticwebassets\\images\\images107.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images108.jpg",
+      "PackagePath": "staticwebassets\\images\\images108.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images109.jpg",
+      "PackagePath": "staticwebassets\\images\\images109.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images11.jpg",
+      "PackagePath": "staticwebassets\\images\\images11.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images110.jpg",
+      "PackagePath": "staticwebassets\\images\\images110.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images111.jpg",
+      "PackagePath": "staticwebassets\\images\\images111.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images112.jpg",
+      "PackagePath": "staticwebassets\\images\\images112.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images113.jpg",
+      "PackagePath": "staticwebassets\\images\\images113.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images114.jpg",
+      "PackagePath": "staticwebassets\\images\\images114.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images115.jpg",
+      "PackagePath": "staticwebassets\\images\\images115.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images116.jpg",
+      "PackagePath": "staticwebassets\\images\\images116.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images117.jpg",
+      "PackagePath": "staticwebassets\\images\\images117.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images118.jpg",
+      "PackagePath": "staticwebassets\\images\\images118.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images12.jpg",
+      "PackagePath": "staticwebassets\\images\\images12.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images13.jpg",
+      "PackagePath": "staticwebassets\\images\\images13.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images14.jpg",
+      "PackagePath": "staticwebassets\\images\\images14.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images15.jpg",
+      "PackagePath": "staticwebassets\\images\\images15.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images16.jpg",
+      "PackagePath": "staticwebassets\\images\\images16.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images17.jpg",
+      "PackagePath": "staticwebassets\\images\\images17.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images18.jpg",
+      "PackagePath": "staticwebassets\\images\\images18.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images19.jpg",
+      "PackagePath": "staticwebassets\\images\\images19.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images2.jpg",
+      "PackagePath": "staticwebassets\\images\\images2.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images20.jpg",
+      "PackagePath": "staticwebassets\\images\\images20.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images21.jpg",
+      "PackagePath": "staticwebassets\\images\\images21.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images22.jpg",
+      "PackagePath": "staticwebassets\\images\\images22.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images23.jpg",
+      "PackagePath": "staticwebassets\\images\\images23.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images24.jpg",
+      "PackagePath": "staticwebassets\\images\\images24.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images25.jpg",
+      "PackagePath": "staticwebassets\\images\\images25.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images26.jpg",
+      "PackagePath": "staticwebassets\\images\\images26.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images27.jpg",
+      "PackagePath": "staticwebassets\\images\\images27.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images28.jpg",
+      "PackagePath": "staticwebassets\\images\\images28.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images29.jpg",
+      "PackagePath": "staticwebassets\\images\\images29.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images3.jpg",
+      "PackagePath": "staticwebassets\\images\\images3.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images30.jpg",
+      "PackagePath": "staticwebassets\\images\\images30.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images31.jpg",
+      "PackagePath": "staticwebassets\\images\\images31.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images32.jpg",
+      "PackagePath": "staticwebassets\\images\\images32.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images33.jpg",
+      "PackagePath": "staticwebassets\\images\\images33.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images34.jpg",
+      "PackagePath": "staticwebassets\\images\\images34.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images35.jpg",
+      "PackagePath": "staticwebassets\\images\\images35.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images36.jpg",
+      "PackagePath": "staticwebassets\\images\\images36.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images37.jpg",
+      "PackagePath": "staticwebassets\\images\\images37.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images38.jpg",
+      "PackagePath": "staticwebassets\\images\\images38.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images39.jpg",
+      "PackagePath": "staticwebassets\\images\\images39.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images4.jpg",
+      "PackagePath": "staticwebassets\\images\\images4.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images40.jpg",
+      "PackagePath": "staticwebassets\\images\\images40.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images41.jpg",
+      "PackagePath": "staticwebassets\\images\\images41.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images42.jpg",
+      "PackagePath": "staticwebassets\\images\\images42.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images43.jpg",
+      "PackagePath": "staticwebassets\\images\\images43.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images44.jpg",
+      "PackagePath": "staticwebassets\\images\\images44.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images45.jpg",
+      "PackagePath": "staticwebassets\\images\\images45.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images46.jpg",
+      "PackagePath": "staticwebassets\\images\\images46.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images47.jpg",
+      "PackagePath": "staticwebassets\\images\\images47.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images48.jpg",
+      "PackagePath": "staticwebassets\\images\\images48.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images49.jpg",
+      "PackagePath": "staticwebassets\\images\\images49.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images5.jpg",
+      "PackagePath": "staticwebassets\\images\\images5.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images50.jpg",
+      "PackagePath": "staticwebassets\\images\\images50.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images51.jpg",
+      "PackagePath": "staticwebassets\\images\\images51.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images52.jpg",
+      "PackagePath": "staticwebassets\\images\\images52.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images53.jpg",
+      "PackagePath": "staticwebassets\\images\\images53.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images54.jpg",
+      "PackagePath": "staticwebassets\\images\\images54.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images55.jpg",
+      "PackagePath": "staticwebassets\\images\\images55.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images56.jpg",
+      "PackagePath": "staticwebassets\\images\\images56.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images57.jpg",
+      "PackagePath": "staticwebassets\\images\\images57.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images58.jpg",
+      "PackagePath": "staticwebassets\\images\\images58.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images59.jpg",
+      "PackagePath": "staticwebassets\\images\\images59.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images6.jpg",
+      "PackagePath": "staticwebassets\\images\\images6.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images60.jpg",
+      "PackagePath": "staticwebassets\\images\\images60.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images61.jpg",
+      "PackagePath": "staticwebassets\\images\\images61.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images62.jpg",
+      "PackagePath": "staticwebassets\\images\\images62.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images63.jpg",
+      "PackagePath": "staticwebassets\\images\\images63.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images64.jpg",
+      "PackagePath": "staticwebassets\\images\\images64.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images65.jpg",
+      "PackagePath": "staticwebassets\\images\\images65.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images66.jpg",
+      "PackagePath": "staticwebassets\\images\\images66.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images67.jpg",
+      "PackagePath": "staticwebassets\\images\\images67.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images68.jpg",
+      "PackagePath": "staticwebassets\\images\\images68.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images69.jpg",
+      "PackagePath": "staticwebassets\\images\\images69.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images7.jpg",
+      "PackagePath": "staticwebassets\\images\\images7.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images70.jpg",
+      "PackagePath": "staticwebassets\\images\\images70.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images71.jpg",
+      "PackagePath": "staticwebassets\\images\\images71.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images72.jpg",
+      "PackagePath": "staticwebassets\\images\\images72.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images73.jpg",
+      "PackagePath": "staticwebassets\\images\\images73.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images74.jpg",
+      "PackagePath": "staticwebassets\\images\\images74.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images75.jpg",
+      "PackagePath": "staticwebassets\\images\\images75.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images76.jpg",
+      "PackagePath": "staticwebassets\\images\\images76.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images77.jpg",
+      "PackagePath": "staticwebassets\\images\\images77.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images78.jpg",
+      "PackagePath": "staticwebassets\\images\\images78.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images79.jpg",
+      "PackagePath": "staticwebassets\\images\\images79.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images8.jpg",
+      "PackagePath": "staticwebassets\\images\\images8.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images80.jpg",
+      "PackagePath": "staticwebassets\\images\\images80.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images81.jpg",
+      "PackagePath": "staticwebassets\\images\\images81.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images82.jpg",
+      "PackagePath": "staticwebassets\\images\\images82.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images83.jpg",
+      "PackagePath": "staticwebassets\\images\\images83.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images84.jpg",
+      "PackagePath": "staticwebassets\\images\\images84.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images85.jpg",
+      "PackagePath": "staticwebassets\\images\\images85.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images86.jpg",
+      "PackagePath": "staticwebassets\\images\\images86.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images87.jpg",
+      "PackagePath": "staticwebassets\\images\\images87.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images88.jpg",
+      "PackagePath": "staticwebassets\\images\\images88.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images89.jpg",
+      "PackagePath": "staticwebassets\\images\\images89.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images9.jpg",
+      "PackagePath": "staticwebassets\\images\\images9.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images90.jpg",
+      "PackagePath": "staticwebassets\\images\\images90.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images91.jpg",
+      "PackagePath": "staticwebassets\\images\\images91.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images92.jpg",
+      "PackagePath": "staticwebassets\\images\\images92.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images93.jpg",
+      "PackagePath": "staticwebassets\\images\\images93.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images94.jpg",
+      "PackagePath": "staticwebassets\\images\\images94.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images95.jpg",
+      "PackagePath": "staticwebassets\\images\\images95.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images96.jpg",
+      "PackagePath": "staticwebassets\\images\\images96.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images97.jpg",
+      "PackagePath": "staticwebassets\\images\\images97.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images98.jpg",
+      "PackagePath": "staticwebassets\\images\\images98.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\images99.jpg",
+      "PackagePath": "staticwebassets\\images\\images99.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\indian-beautiful-girl-dressed-saree_187678-61.jpg",
+      "PackagePath": "staticwebassets\\images\\indian-beautiful-girl-dressed-saree_187678-61.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\indian-girl-beautiful-girl-indian-female.jpg",
+      "PackagePath": "staticwebassets\\images\\indian-girl-beautiful-girl-indian-female.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\long-nails-bright-blue-make-up-picture-taken-studio-gray-background-46770529.jpg",
+      "PackagePath": "staticwebassets\\images\\long-nails-bright-blue-make-up-picture-taken-studio-gray-background-46770529.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\maxresdefault.jpg",
+      "PackagePath": "staticwebassets\\images\\maxresdefault.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\pexels-photo-1391498.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-photo-1391498.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\pexels-photo-1391499.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-photo-1391499.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\pexels-photo-1580271.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-photo-1580271.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\pexels-photo-2625122.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-photo-2625122.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\pexels-tuấn-kiệt-jr-1391499.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-tuấn-kiệt-jr-1391499.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\pngtree-chinese-style-beautiful-girl-background-picture-image_2252685.jpg",
+      "PackagePath": "staticwebassets\\images\\pngtree-chinese-style-beautiful-girl-background-picture-image_2252685.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\portrait-beautiful-african-girl-20607434.jpg",
+      "PackagePath": "staticwebassets\\images\\portrait-beautiful-african-girl-20607434.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\portrait-of-a-Indian-beautiful-girl-wearing-sharee-stock-image.jpg",
+      "PackagePath": "staticwebassets\\images\\portrait-of-a-Indian-beautiful-girl-wearing-sharee-stock-image.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\portrait-of-indian-beautiful-girl-2D6K2C8.jpg",
+      "PackagePath": "staticwebassets\\images\\portrait-of-indian-beautiful-girl-2D6K2C8.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\portrait-young-beautiful-girl-fashion-photo-29870052.jpg",
+      "PackagePath": "staticwebassets\\images\\portrait-young-beautiful-girl-fashion-photo-29870052.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\stylishandbeautifulgirlpic_222098e4_1636090065329_sc_cmprsd_40.jpg",
+      "PackagePath": "staticwebassets\\images\\stylishandbeautifulgirlpic_222098e4_1636090065329_sc_cmprsd_40.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\the-story-of-a-beautiful-girl-et00342635-1683020644.jpg",
+      "PackagePath": "staticwebassets\\images\\the-story-of-a-beautiful-girl-et00342635-1683020644.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\top-10-beautiful-girls-in-india.png",
+      "PackagePath": "staticwebassets\\images\\top-10-beautiful-girls-in-india.png"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\top-10-beautiful-girls-in-india1.png",
+      "PackagePath": "staticwebassets\\images\\top-10-beautiful-girls-in-india1.png"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\top-10-beautiful-girls-in-india7.png",
+      "PackagePath": "staticwebassets\\images\\top-10-beautiful-girls-in-india7.png"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\worlds-most-beautiful-nigerian-girl-jare-but-mofe-fb-png__700.jpg",
+      "PackagePath": "staticwebassets\\images\\worlds-most-beautiful-nigerian-girl-jare-but-mofe-fb-png__700.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\images\\yael-most-beautiful-video.jpg",
+      "PackagePath": "staticwebassets\\images\\yael-most-beautiful-video.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Visual Studio Work\\ASP.NET\\ImageCollectionGallery\\ImageCollectionGallery\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ImageCollectionGallery.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ImageCollectionGallery.props",
+      "PackagePath": "build\\ImageCollectionGallery.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ImageCollectionGallery.props",
+      "PackagePath": "buildMultiTargeting\\ImageCollectionGallery.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ImageCollectionGallery.props",
+      "PackagePath": "buildTransitive\\ImageCollectionGallery.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
