@@ -1,0 +1,17 @@
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll.config
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\bin\Debug\EntityFramework.dll
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\bin\Debug\ModelAccessLayer.dll
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\bin\Debug\ModelAccessLayer.pdb
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\bin\Debug\EntityFramework.xml
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+E:\Visual Studio Work\ASP.NET\Proper_LARCD1A_Trail1\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
